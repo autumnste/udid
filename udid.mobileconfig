@@ -5,7 +5,7 @@
         <key>PayloadContent</key>
         <dict>
             <key>URL</key>
-            <string>https://autumnste.github.io/udid/receive.php</string>
+            <string>https://github.com/autumnste/udid/receive.php</string>
             <key>DeviceAttributes</key>
             <array>
                 <string>UDID</string>
