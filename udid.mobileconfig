@@ -5,7 +5,7 @@
         <key>PayloadContent</key>
         <dict>
             <key>URL</key>
-            <string>http://dev.skyfox.org/udid/receive.php</string> <!--接收数据的接口地址-->
+            <string>https://autumnste.github.io/udid/receive.php</string> <!--接收数据的接口地址-->
             <key>DeviceAttributes</key>
             <array>
                 <string>UDID</string>
