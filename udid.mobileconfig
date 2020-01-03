@@ -22,9 +22,9 @@
         <key>PayloadVersion</key>
         <integer>1</integer>
         <key>PayloadUUID</key>
-        <string>3C4DC7D2-E475-3375-489C-0BB8D737A653</string>  <!--自己随机填写的唯一字符串-->
+        <string>3C4DC7D2-E475-3375-489C-0BA8D737A653</string>  <!--自己随机填写的唯一字符串-->
         <key>PayloadIdentifier</key>
-        <string>dev.skyfox.profile-service</string>
+        <string>dev.wxj.profile-service</string>
         <key>PayloadDescription</key>
         <string>本文件仅用来获取设备ID</string>   <!--描述-->
         <key>PayloadType</key>
